@@ -17,3 +17,7 @@ ExpressJS,NodeJS,SQL,EJS as View Engine
 
 5.port is mentioned in server file
 
+
+
+https://user-images.githubusercontent.com/63161743/146757628-d2b0e81d-fc28-47ae-861a-8525d13067ab.mp4
+
